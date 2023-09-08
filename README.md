@@ -1,3 +1,3 @@
-# soslice.github.io
-# manoj kumar
+soslice.github.io
+manoj kumar
 Manoj kumar
