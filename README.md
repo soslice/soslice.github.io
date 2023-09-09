@@ -2,3 +2,4 @@
 # manoj Kumar
 # Manoj Kumar
 ![WhatsApp Image 2023-06-08 at 10 04 32 PM](https://github.com/soslice/soslice.github.io/assets/144488819/dcc99130-712c-486e-b35a-3e084afd8d2d)
+[Aug 23 sem fee.pdf](https://github.com/soslice/soslice.github.io/files/12566359/Aug.23.sem.fee.pdf)
