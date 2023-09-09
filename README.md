@@ -1,4 +1,5 @@
 
+![Perovskite solar cell](https://github.com/soslice/soslice.github.io/assets/144488819/f841a026-7d60-4d93-923c-17136a0f4df1)
 # Brief introdution to the Resent work in the field of Perovskite material 
 
 Recent work in perovskite materials has focused on improving the stability and efficiency of perovskite solar cells, advancing tandem cell technologies, enhancing perovskite LEDs and photodetectors, exploring energy storage applications, addressing environmental concerns, and commercializing perovskite-based products. This dynamic field continues to evolve, with ongoing research and development efforts.
