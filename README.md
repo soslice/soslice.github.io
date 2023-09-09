@@ -24,3 +24,5 @@ Recent work in perovskite materials has focused on improving the stability and e
 8. Commercialization and Industrialization: Efforts have been made to transition perovskite-based technologies from the lab to commercial production. Several companies and startups have been working on scaling up perovskite manufacturing processes and bringing perovskite-based products to market.
 
 Please note that the field of perovskite materials is rapidly evolving, and there may have been significant developments beyond my last knowledge update in September 2021. To stay current with the latest advancements, I recommend consulting recent scientific literature and news sources in the field of materials science and nanotechnology.
+![WhatsApp Image 2023-06-08 at 10 04 32 PM](https://github.com/soslice/soslice.github.io/assets/144488819/424e50d4-a270-4011-b927-1c57af2bbbe5)
+
